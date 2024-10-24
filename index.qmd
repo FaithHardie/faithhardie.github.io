@@ -1,5 +1,5 @@
 ---
-title: "faithhardie.github.io"
+title: "Faith Hardie"
 ---
 
 This is a Quarto website.
