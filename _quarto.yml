@@ -14,7 +14,7 @@ format:
   html:
     theme: 
      light: minty
-      dark: solar
+     dark: solar
     css: styles.css
     toc: true
 
